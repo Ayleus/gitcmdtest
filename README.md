@@ -1,5 +1,5 @@
 ```
 git clone https://github.com/ayleus/gitcmdtest
-cd git_rce
+cd gitcmdtest
 git pull
 ```
